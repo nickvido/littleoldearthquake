@@ -1,1 +1,5 @@
-Oh how nice I can use VIM in git bash
+
+This repo is for exploit tutorials.
+
+Interesting sites include:
+* https://www.corelan.be
