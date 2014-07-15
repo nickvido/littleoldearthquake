@@ -1,0 +1,15 @@
+----------------------------------------------------------------------------
+Findjmp, Eeye, I2S-LaB
+Findjmp2, Hat-Squad
+Scanning kernel32.dll for code useable with the esp register
+----------------------------------------------------------------------------
+0x77127133	call esp
+0x7714A980	push esp - ret
+0x7718CEB2	call esp
+----------------------------------------------------------------------------
+Finished Scanning kernel32.dll for code useable with the esp register
+Found 3 usable addresses
+----------------------------------------------------------------------------
+
+
+
